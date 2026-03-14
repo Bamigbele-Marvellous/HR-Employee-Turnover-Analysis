@@ -1,4 +1,12 @@
 # HR-Employee-Turnover-Analysis
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 ### Project Overview
 This project analyzes employee turnover within the organization to identify patterns in workforce exits and factors affecting employee retention.
 The analysis examines workforce composition, departmental turnover rates, employee satisfaction, gender dynamics, and historical turnover trends from 2016 to 2024.
@@ -21,6 +29,7 @@ The analysis was conducted using:
 2. Pivot Tables for summarizing workforce data
 3. Excel formulas for calculating turnover metrics
 4. Data visualization tools for trend and departmental comparisons
+   
 ### Data Cleaning and Preparation
 Before analysis, the dataset was prepared by:
 - Checking for missing or inconsistent records
