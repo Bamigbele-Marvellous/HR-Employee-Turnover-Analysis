@@ -12,6 +12,8 @@ This project analyzes employee turnover within the organization to identify patt
 The analysis examines workforce composition, departmental turnover rates, employee satisfaction, gender dynamics, and historical turnover trends from 2016 to 2024.
 The objective is to generate insights that can support HR in improving employee retention, strengthening workforce stability, and protecting high-performing talent.
 
+<img width="826" height="438" alt="Image" src="https://github.com/user-attachments/assets/e7c541d2-90d5-4774-b0c6-ba2ea508136e" />
+
 ### Data Sources
 The dataset contains internal HR workforce records including:
 - Employee status (active or exited)
