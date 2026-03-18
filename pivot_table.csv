@@ -1,0 +1,49 @@
+﻿Active employees,Total Exits,Turn over rate,High performer exit,Average Tenure,,,,,,,,,,,,
+46,17,37%,7,3,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Turn over rate change,,,,,,,,,,,,,,,,
+▼9.5%,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,Row Labels,Total Exits,,Row Labels,Turn over rate,,Row Labels,Count of Department,,performance range,Turn over rate,,,,
+,,Marketing,2,,HR,75.0%,,HR,4,,High,30%,,,,
+,,IT,3,,IT,60.0%,,IT,5,,Low,33%,,,,
+,,HR,3,,Sales,42.9%,,Marketing,7,,Medium,80%,,,,
+,,Operations,3,,Marketing,28.6%,,Sales,7,,Grand Total,0.369565217,,,,
+,,Finance,3,,Operations,27.3%,,Operations,11,,,,,,,
+,,Sales,3,,Finance,25.0%,,Finance,12,,,,,,,
+,,Grand Total,17,,Grand Total,37.0%,,Grand Total,46,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,Salary band by turn over rate,,,salary band by Total exits,,,,Yearly trends for turn over rate,
+,,Turn over rate,Column Labels,,,,,Row Labels,Turn over rate,,salary band,Total Exits,,,Row Labels,Turn over rate
+,,Row Labels,Female,Male,Grand Total,,,High salary,50.0%,,High salary,7,,,2017,25.0%
+,,High,27.3%,20.0%,23.8%,,,Low salary,50.0%,,Low salary,4,,,2018,66.7%
+,,Low,150.0%,36.4%,66.7%,,,Grand Total,75.0%,,Medium Salary,9,,,2019,25.0%
+,,Medium,20.0%,60.0%,33.3%,,,,,,Grand Total,20,,,2020,20.0%
+,,Grand Total,44.0%,34.6%,39.2%,,,,,,,,,,2021,60.0%
+,,,,,,,,,,,,,,,2022,40.0%
+,,,,,,,,,,,,,,,2023,40.0%
+,,,,,,,,,,,,,,,2024,75.0%
+,,,,,,,,,,,,,,,Grand Total,39.2%
+,,Row Labels,Average Tenure,,Average of Salary,Column Labels,,,,,,,,,,
+,,IT,3.00,,Row Labels,No,Yes,Grand Total,,,,,,,,
+,,HR,3.00,,Finance,121.1K,105.5K,115.9K,,,,,,,,
+,,Marketing,3.14,,HR,123.4K,90.8K,98.9K,,,,,,,,
+,,Operations,3.22,,IT,133.1K,97.6K,118.9K,,,,,,,,
+,,Finance,3.47,,Marketing,99.1K,136.9K,115.3K,,,,,,,,
+,,Sales,3.50,,Operations,116.0K,142.2K,123.2K,,,,,,,,
+,,Grand Total,3.21,,Sales,118.7K,144.9K,133.7K,,,,,,,,
+,,,,,Grand Total,117.5K,121.4K,119.1K,,,,,,,,
